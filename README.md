@@ -34,7 +34,7 @@
 
 
 ## 技术书籍分享
-[个人读过的书籍分享](github.com)
+[个人读过的书籍分享](https://github.com/leoyiall/interview/blob/master/book/booklist.md)
 
 ## 寄语
 如果你也有相关的PHP面试题想要分享给我或者想跟我进行交流，我的Q号：330168885（同邮箱）。会贴出对应的分享人名字+github或博客地址。感谢大家的分享。
@@ -44,5 +44,6 @@
 
 个人公众号：
 
+![琉忆编程库](https://raw.githubusercontent.com/leoyiall/interview/master/img/leo.jpg)
 
 我还建立了一个PHP微信交流群，可加好友后说明我拉你进群。
