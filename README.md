@@ -32,6 +32,13 @@
 
 [12.面试软问题(43)](https://github.com/leoyiall/interview/blob/master/interview/ask.md)
 
+## PHP相关思维导图分享
+
+![PHP面试流程](https://raw.githubusercontent.com/leoyiall/interview/master/img/php-interview.jpg)
+
+![PHP多轮面试流程](https://raw.githubusercontent.com/leoyiall/interview/master/img/php-interview2.jpg)
+
+
 
 ## 技术书籍分享
 [个人读过的书籍分享](https://github.com/leoyiall/interview/blob/master/book/booklist.md)
@@ -42,7 +49,8 @@
 个人微信：leoyistar
 
 
-个人公众号：
+
+个人公众号：liuyibiancheng
 
 ![琉忆编程库](https://raw.githubusercontent.com/leoyiall/interview/master/img/leo.jpg)
 
